@@ -41,7 +41,7 @@ export const RESUME_DATA: ResumeData = {
       badges: ["React Native", "Expo", "Statamic",],
       title: "Frontend udvikler",
       start: "2025",
-      end: 2026,
+      end: "2026",
       description:
         "Udvikling af kundespecifik software, herunder apps ComeUnity. GOTO Jobmatch",
     },
